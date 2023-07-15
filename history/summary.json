@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 169,
-    "timeDay": 135,
-    "timeWeek": 202,
-    "timeMonth": 171,
-    "timeYear": 169,
+    "time": 168,
+    "timeDay": 40,
+    "timeWeek": 204,
+    "timeMonth": 163,
+    "timeYear": 168,
     "dailyMinutesDown": {}
   },
   {
@@ -47,7 +47,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 18,
-    "timeDay": 6,
+    "timeDay": 3,
     "timeWeek": 26,
     "timeMonth": 21,
     "timeYear": 18,
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 133,
-    "timeWeek": 166,
-    "timeMonth": 152,
-    "timeYear": 147,
+    "time": 146,
+    "timeDay": 57,
+    "timeWeek": 168,
+    "timeMonth": 148,
+    "timeYear": 146,
     "dailyMinutesDown": {}
   },
   {
@@ -78,17 +78,15 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 112,
-    "timeDay": 215,
+    "time": 111,
+    "timeDay": 207,
     "timeWeek": 194,
-    "timeMonth": 143,
-    "timeYear": 112,
-    "dailyMinutesDown": {
-      "2023-07-14": 7
-    }
+    "timeMonth": 142,
+    "timeYear": 111,
+    "dailyMinutesDown": {}
   }
 ]
