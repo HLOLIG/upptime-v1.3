@@ -76,21 +76,21 @@
     "url": "https://www.google.com",
     "icon": "https://www.google.com/favicon.ico",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.20%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 123,
-    "timeDay": 266,
-    "timeWeek": 157,
-    "timeMonth": 100,
+    "time": 122,
+    "timeDay": 203,
+    "timeWeek": 148,
+    "timeMonth": 99,
     "timeYear": 127,
     "dailyMinutesDown": {
       "2026-02-15": 42,
       "2026-03-28": 72,
-      "2026-08-15": 0
+      "2026-08-15": 11
     }
   }
 ]
