@@ -4,19 +4,19 @@
     "url": "https://blog.hloli.pw",
     "icon": "https://blog.hloli.pw/melody-favicon.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.41%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 191,
-    "timeDay": 148,
-    "timeWeek": 149,
-    "timeMonth": 149,
+    "time": 190,
+    "timeDay": 115,
+    "timeWeek": 141,
+    "timeMonth": 147,
     "timeYear": 183,
     "dailyMinutesDown": {
-      "2026-08-16": 0
+      "2026-08-16": 23
     }
   },
   {
